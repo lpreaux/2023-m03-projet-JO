@@ -1,6 +1,6 @@
 # 2023-m03-projet-JO
 
-Projet réaliser avec [Visual Paradigm](https://www.visual-paradigm.com/) (je suis plus habitué à cet outils plutot que StartUML).
+Projet réaliser avec [Visual Paradigm](https://www.visual-paradigm.com/) (je suis plus habitué à cet outils plutot que StarUML).
 
 Pour le rendu, j'ai fait une release GitHub avec une archive zip avec le contenu du dossier rendu. Si vous voulez voir le travail plus en détail, tout est dans le dépot. (cf. [Contenu du dépot
 ](#contenu-du-d%C3%A9pot) pour plus d'info)
